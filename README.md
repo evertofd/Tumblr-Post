@@ -1,24 +1,12 @@
-# README
+# Tumblr Post
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# 1. PostTumblr:
+ - Aplicaciòn desarrollada en Ruby On Rails donde el usuario puede ingresar, crear, editar e eliminar diferentes Post y comentar Post de otros usuarios, creando discuciones de temas publicados por diferentes usuarios.
+  
+# 2. Tecnologia Utilizada
+* Ruby version 2.7
+* Rails version 6.1
+* Base de datos Sqlite3
+* Devise
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# 
